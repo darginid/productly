@@ -1,3 +1,3 @@
 # productly
 ## My first adaptive landing
-### [link](https://darginid.github.io/lokalise/)
+### [link](https://darginid.github.io/productly/)
