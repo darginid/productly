@@ -670,8 +670,4 @@ body {
    color: #fff;
    background-color: #FF9900;
 }
-
-.footer__form-btn:hover {
-   animation: bounce 1s;
-}
 /* End */
